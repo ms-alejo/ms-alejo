@@ -1,10 +1,10 @@
-### 👋 Hi, I’m Miguel @ms-alejo
+### 👋 Hi, I’m Miguel! 
 -  I’m interested in web development
 -  I’m currently learning **software engineering**
-  - HTML
-  - CSS
-  - JavaScript
-  - Java
+    - HTML
+    - CSS
+    - JavaScript
+    - Java
 -  I’m looking to collaborate on projects:)
 
 <!---
