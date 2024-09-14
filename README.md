@@ -1,11 +1,7 @@
 ### 👋 Hi, I’m Miguel! 
 -  I’m interested in web development
 -  I’m currently learning **software engineering**
-    - HTML
-    - CSS
-    - JavaScript
-    - Java
--  I’m looking to collaborate on projects:)
+-  I’m looking to collaborate on projects
 
 <!---
 ms-alejo/ms-alejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
