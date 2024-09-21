@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Miguel! 
--  I’m interested in web development
+-  I’m interested in full stack web development
 -  I’m currently learning **software engineering**
 -  I’m looking to collaborate on projects
 
