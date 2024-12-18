@@ -3,6 +3,8 @@
 -  I’m currently learning **software engineering**
 -  I’m looking to collaborate on projects
 
+![ms-alejo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ms-alejo&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
 <!---
 ms-alejo/ms-alejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
